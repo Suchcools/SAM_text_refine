@@ -1,0 +1,1 @@
+import mmocr_text
